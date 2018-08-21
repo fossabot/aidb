@@ -1,4 +1,6 @@
 # aidb
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpeterducai%2Faidb.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpeterducai%2Faidb?ref=badge_shield)
+
 asset inventory database
 
 ## Psql
@@ -20,3 +22,7 @@ sudo docker logs aidb1
 
 
 > see also https://github.com/peterducai/aidb_portal
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fpeterducai%2Faidb.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fpeterducai%2Faidb?ref=badge_large)
